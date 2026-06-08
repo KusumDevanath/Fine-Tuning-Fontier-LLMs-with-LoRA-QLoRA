@@ -42,6 +42,8 @@ This project was built to:
 ```
 ├── Data_Curation.ipynb
 ├── Data_Preprocessing.ipynb
+├── Traditional_ML.ipynb
+├── Deep_Learning.ipynb
 ├── FineTuning.ipynb
 ├── README.md
 ```
@@ -51,6 +53,3 @@ This project was built to:
 - Experience with quantized LLM training  
 - Efficient fine-tuning on limited compute  
 - Exposure to enterprise-ready LLM customization  
-
-## Author
-AI Master's Applicant | Aspiring AI Engineer
